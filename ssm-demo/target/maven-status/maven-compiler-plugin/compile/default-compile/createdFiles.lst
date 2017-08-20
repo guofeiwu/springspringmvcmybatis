@@ -1,0 +1,17 @@
+com\integrate\ssm\model\MessageCriteria$Criteria.class
+com\integrate\ssm\model\PersonCriteria.class
+com\integrate\ssm\model\mapper\PersonMapper.class
+com\integrate\ssm\model\mapper\MessageSqlProvider.class
+com\integrate\ssm\model\MessageCriteria$Criterion.class
+com\integrate\ssm\model\MessageCriteria.class
+com\integrate\ssm\model\PersonCriteria$Criterion.class
+com\integrate\ssm\model\service\PersonService.class
+com\integrate\ssm\model\MessageCriteria$GeneratedCriteria.class
+com\integrate\ssm\model\Person.class
+com\integrate\ssm\model\mapper\MessageMapper.class
+com\integrate\ssm\model\query\PersonQuery.class
+com\integrate\ssm\model\PersonCriteria$Criteria.class
+com\integrate\ssm\model\controller\PersonController.class
+com\integrate\ssm\model\Message.class
+com\integrate\ssm\model\mapper\PersonSqlProvider.class
+com\integrate\ssm\model\PersonCriteria$GeneratedCriteria.class
